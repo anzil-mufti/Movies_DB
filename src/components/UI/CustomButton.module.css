@@ -1,0 +1,18 @@
+.custom_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    margin-top: 1.5rem;
+    padding: 0.5rem 1rem;
+    width: 80%;
+    height: 50px;
+    background-color: rgba(248, 69, 159, 0.4);
+    border: none;
+    outline: none;
+  }

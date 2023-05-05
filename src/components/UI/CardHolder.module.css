@@ -1,0 +1,16 @@
+.title {
+    font-size: 2rem;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.card_holder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem 0;
+    gap: 2rem;
+}
