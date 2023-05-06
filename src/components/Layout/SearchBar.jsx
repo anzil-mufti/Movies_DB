@@ -1,7 +1,8 @@
 import { useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import classes from './SearchBar.module.css'
-import Search_icon from '../../assets/images/Search_icon.svg';
+// import Search_icon from '../../assets/images/Search_icon.svg';
+import Search_icon from '../../images/Search_icon.svg'
 
 const SearchBar = () => {
     const inputRef = useRef();

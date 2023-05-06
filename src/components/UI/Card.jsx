@@ -1,6 +1,7 @@
 import { genre_movie, genre_tv } from '../../constants/genre';
 import { useNavigate } from 'react-router-dom';
-import poster_error from '../../assets/images/poster_error.jpg';
+// import poster_error from '../../assets/images/poster_error.jpg';
+import poster_error from '../../images/poster_error.jpg';
 import classes from './Card.module.css';
 
 const Card = (props) => {

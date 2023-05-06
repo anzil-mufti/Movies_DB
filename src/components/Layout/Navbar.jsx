@@ -1,7 +1,8 @@
 import classes from './Navbar.module.css';
 import SearchBar from './SearchBar';
 import Button from '../UI/Button';
-import Dropdown from '../../assets/images/Dropdown.svg';
+// import Dropdown from '../../assets/images/Dropdown.svg';
+import Dropdown from '../../images/Dropdown.svg';
 import { useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';

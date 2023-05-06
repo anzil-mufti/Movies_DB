@@ -3,7 +3,7 @@ import axios from "axios";
 import classes from "./Details.module.css";
 import { useParams, useLocation } from "react-router-dom";
 import WatchListButton from "../UI/WatchListButton";
-import poster_error from "../../assets/images/poster_error.jpg";
+import poster_error from '../../images/poster_error.jpg';
 import Navbar from "../Layout/Navbar";
 import PageButton from "../UI/PageButton";
 
